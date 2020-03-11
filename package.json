@@ -8,8 +8,8 @@
     "dev:server": "nodemon server.js", 
     "json:server": "json-server --watch data.json"
   },
-  "author": "Yusuf Rizal",
-  "license": "MIT",
+  "author": "@yusufrizalh",
+  "license": "IXSBY",
   "dependencies": {
     "axios": "^0.19.2",
     "express": "^4.17.1",

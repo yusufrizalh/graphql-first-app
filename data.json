@@ -1,34 +1,34 @@
 {
-    "peoples": [
-        {
-            "id": "1",
-            "nama": "Yusuf Rizal",
-            "email": "yrizal@email",
-            "usia": 28
-        }, 
-        {
-            "id": "2",
-            "nama": "Farah Diba",
-            "email": "fdiba@email",
-            "usia": 30
-        },
-        {
-            "id": "3",
-            "nama": "Benazir Shea",
-            "email": "bshea@email",
-            "usia": 2
-        },
-        {
-            "id": "4",
-            "nama": "Alberto Stefano",
-            "email": "astefano@email",
-            "usia": 40
-        },
-        {
-            "id": "5",
-            "nama": "Maria Mercedez",
-            "email": "mmercedez@email",
-            "usia": 37
-        }
-    ]
+  "peoples": [
+    {
+      "id": "1",
+      "nama": "Yusuf Rizal",
+      "email": "yrizal@email",
+      "usia": 28
+    },
+    {
+      "id": "2",
+      "nama": "Farah Diba",
+      "email": "fdiba@email",
+      "usia": 17
+    },
+    {
+      "id": "3",
+      "nama": "Benazir Shea",
+      "email": "bshea@email",
+      "usia": 2
+    },
+    {
+      "id": "5",
+      "nama": "Maria Mercedez",
+      "email": "mmercedez@email",
+      "usia": 37
+    },
+    {
+      "nama": "Harry White",
+      "email": "hwhite@email.com",
+      "usia": 34,
+      "id": "8HPSdgJ"
+    }
+  ]
 }
